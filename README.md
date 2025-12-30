@@ -1,7 +1,9 @@
 # Equity Factor Model
 
 ## Objective
-Build a multi-factor equity strategy using momentum and volatility factors.
+Build  multi-factor equity strategy for 3 major stocks (AAPL, MSFT, TSLA)
+ calculating daily returns (~750 trading days), rolling 20-day volatility, and factor scores  using momentum and volatility factors.
+Backtested top-N stock portfolios,demonstrating risk-adjusted portfolio performance.
 
 ## Data
 - Stored in the `data/` folder
